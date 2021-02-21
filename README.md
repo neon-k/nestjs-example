@@ -10,7 +10,7 @@
 
 | Library                                             | 説明                                         |
 | --------------------------------------------------- | -------------------------------------------- |
-| [gin](https://nestjs.com/)                          | Typescript製のバックエンドフレームワーク                         |
+| [nestjs](https://nestjs.com/)                          | Typescript製のバックエンドフレームワーク                         |
 | [TypeORM](https://typeorm.io/#/)                    | ORMマッパー + マイグレーション                          |
 | [mysql](https://www.mysql.com/jp/)                  | DB                                 |
 | [passport-jwt](http://www.passportjs.org/packages/passport-jwt/) | JWT認証      |
